@@ -1,1 +1,1 @@
-# Zero-Trust-Network-Access-ZTNA-with-Zscaler-Securing-User-to-Application-Connectivity
+https://drive.google.com/file/d/196FwcoRT4Iiz3QNHQLTGFkvrdAkDQSWr/view?usp=drivesdk
